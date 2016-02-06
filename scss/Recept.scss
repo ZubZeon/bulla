@@ -1,0 +1,17 @@
+body {
+  background-color: $body-background;
+}
+
+p {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+img {
+  border: 2px solid black;
+  height: 200px;
+}
+
+a img {
+    border: 2px solid black;
+}
